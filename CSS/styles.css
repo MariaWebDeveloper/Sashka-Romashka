@@ -1,0 +1,23 @@
+body {
+  background-color: pink;
+  background-image: url(1.JPG);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: #E98580;
+  font-size: 150px;
+  text-align:center;
+  opacity: 0.6;
+}
+
+img {
+  background-color: red;
+}
+p {
+  color: #492F10;
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+  }
